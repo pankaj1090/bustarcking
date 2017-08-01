@@ -1,0 +1,10 @@
+[09-Jul-2017 11:34:05 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_bus_by_no() in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 209
+[09-Jul-2017 11:36:29 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_bus_by_no() in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 212
+[09-Jul-2017 11:38:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_bus_by_no() in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 211
+[09-Jul-2017 11:38:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_bus_by_no() in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 211
+[09-Jul-2017 11:42:25 Asia/Kolkata] PHP Fatal error:  Call to undefined method Merchant_model::get_bus_by_no() in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 212
+[09-Jul-2017 12:12:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/themes91/public_html/pankaj/bustrack/application/controllers/Webservice.php on line 197
+[11-Jul-2017 09:27:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/themes91/public_html/pankaj/bustrack/application/views/add_driver.php on line 58
+[11-Jul-2017 09:27:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/themes91/public_html/pankaj/bustrack/application/views/add_driver.php on line 60
+[11-Jul-2017 09:36:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/themes91/public_html/pankaj/bustrack/application/views/add_driver.php on line 58
+[13-Jul-2017 11:34:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/themes91/public_html/pankaj/bustrack/application/controllers/Apidetails.php on line 82
